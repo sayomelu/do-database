@@ -1,0 +1,41 @@
+original:
+  name:
+    latin: joshi-kosei-no-mudazukai
+    en: Wasteful Days of High School Girls
+    ja: 女子高生の無駄づかい
+    zh-hans: 女高中生的虚度日常
+    zh-hant: 女高中生的虛度日常
+  language: ja
+  type: text/book
+  date: 2015-12-7
+  people:
+    author: bino-2015-12-7-un
+    publisher: kadokawa-shoten-1945.11.10
+  access:
+    cn:
+    jp:
+      amazon.com: https://www.amazon.co.jp/dp/4041041716
+  infomation:
+    official: https://comic.webnewtype.com/contents/joshikosei/
+    anidb:
+    wikipedia: https://ja.wikipedia.org/wiki/女子高生の無駄づかい
+    bangumi: https://bangumi.tv/subject/212917
+    baidu-baike: https://baike.baidu.com/item/女高中生的虚度日常/23590684
+
+extend:
+  name:
+  type: video/tv-series
+  date: 2019-7-5
+  access:
+    youtube: youtube.com/sample
+  infomation:
+    official: sample.com
+    wikipedia: wikipedia.com/sample
+    bangumi: bangumi.com/sample.com
+    baidu-baike: baike.baidu.com/hello
+
+  extend:
+    name: 輪！Moon！dass！cry！
+      type: audio/music
+      access:
+        netease-music: https://music.163.com/#/song?id=1379839469
